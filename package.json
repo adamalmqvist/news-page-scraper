@@ -1,0 +1,22 @@
+{
+  "name": "news-page-scraper",
+  "version": "1.0.0",
+  "main": "dist/src/index.js",
+  "scripts": {
+    "start": "node dist/src/index.js",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "@mendable/firecrawl-js": "^0.0.21",
+    "@supabase/supabase-js": "^2.43.4",
+    "openai": "^4.47.3"  
+  },
+  "type": "module"
+}
