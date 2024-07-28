@@ -7,7 +7,6 @@ const urls = [
   'https://svt.se',
   'https://www.dn.se/'
   // Add more URLs here
-
 ];
 
 
